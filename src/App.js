@@ -85,9 +85,9 @@ function App() {
           </div>
 
           <div className="card">
-            <h4>E-Commerce Cart App</h4>
+            <h4>PlantInfo Storing System</h4>
             <p>
-              A simple E-Commerce Application that helps users purchase products online.
+              A Plant Information Storing System that helps users to store and manage plant-related information.
             </p>
           </div>
         </div>
